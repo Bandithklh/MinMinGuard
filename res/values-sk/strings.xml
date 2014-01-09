@@ -13,6 +13,8 @@
          Ale nezabudnite občas podporiť vývojárov aplikácií vypnutím <i>MinMinGuard</i> a kliknutím na reklamy.
          \n\nVeľa zábavy s <i>MinMinGuard</i>.</b></string>
     
+    <string name="str_select_all">Vybrať všetky</string>
+    
     <string-array name="drawer_list">
         <item>O aplikácii</item>
     </string-array>
