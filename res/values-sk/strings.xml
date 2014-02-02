@@ -8,9 +8,10 @@
          Ale nezabudnite občas podporiť vývojárov aplikácií vypnutím <i>MinMinGuard</i> a kliknutím na reklamy.
          \n\nVeľa zábavy s <i>MinMinGuard</i>.</b></string>
     
-    <string name="drawer_app_settings">Nastavenia</string>
+    <string name="drawer_app_settings">Aplikácie</string>
     <string name="drawer_about">O aplikácii</string>
     <string name="drawer_log">Log</string>
+    <string name="drawer_minminguard_settings">Nastavenia</string>
     
     <string name="title_about">O aplikácii</string>
     <string name="title_settings">Nastavenia</string>
@@ -24,11 +25,12 @@
     <string name="msg_restart_app"><i>Musíte aplikáciu reštartovať by sa prejavili zmeny.</i></string>
     <string name="msg_saving_log">Ukladám log</string>
     <string name="msg_saving_log_complete">Log bol uložený do %s</string>
+    <string name="msg_search">Hľadať</string>
     <string name="msg_selecting_all">označujem všetky&#8230;</string>
     
     <string name="settings_enable_log">Povoliť ukladanie log súboru pre túto apl.</string>
-    <string name="settings_recursive_remove">Povoliť odstránenie prázdnych miest (môže viesť k zlému zobrazovaniu)</string>
     <string name="settings_enable_url_filtering_data">Povoliť filtrovanie adries v dátach WebView</string>
+    <string name="settings_recursive_remove">Povoliť odstránenie prázdnych miest (môže viesť k zlému zobrazovaniu)</string>
+    <string name="settings_show_system_apps">Zobraziť systémové apl.</string>
     
 </resources>
-
